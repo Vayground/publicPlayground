@@ -3,7 +3,7 @@ apiVersion: v2
           password: admin
 	  login: admin!
         s3_bucket_token: XQMOED0FK1ENUHG3TY5BZL6FH7EGT8YOPSDF9NPSDU0FKT0WEUR0LKG0SDDFT
-        dbConnectionString: mongo -u admin -p dbking12355555!
-	      db2ConnectionString: mongo -u admin -p acbb36392335555	
+        dbConnectionString: mongo -u admin -p dbking123555545!
+	      db2ConnectionString: mongo -u admin -p acbb363492335555	
         github_pat=tester@app.com:acbb369233
         timestamp: 03/11/24⏰15.26
